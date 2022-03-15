@@ -1,6 +1,6 @@
 # Android schoolwork entertainment app: imitating wechat
 
-
+该项目最后获期末成绩100分（100分制），安卓开发课程总成绩98分（总分100分）
 
 **Software tips: for learning only. The phone number in the software is not my own number. If you think the software source code is useful, don't forget to light up star for me**
 
